@@ -3,7 +3,12 @@
 ![image](https://github.com/user-attachments/assets/acb12ffa-2bdd-4480-9660-1a6ed4f954a8)
 
 **Creator:** Erkin Semiz  
-**Python Version:** Python 3.10 (Anaconda Environment)  
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
+[![OpenCV 4.5.5](https://img.shields.io/badge/OpenCV-4.5.5-red.svg)](https://pypi.org/project/opencv-python/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-8.6-red.svg)](https://docs.python.org/3/library/tkinter.html)
+
 **Environment File:** `python310MLfinal.yaml`  
 **Requirements File:** `requirements.txt`  
 
