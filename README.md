@@ -1,5 +1,7 @@
 # Frame Extractor for Drone Recorded Videos
 
+![image](https://github.com/user-attachments/assets/acb12ffa-2bdd-4480-9660-1a6ed4f954a8)
+
 **Creator:** Erkin Semiz  
 **Python Version:** Python 3.10 (Anaconda Environment)  
 **Environment File:** `python310MLfinal.yaml`  
